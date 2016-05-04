@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Hello, World"
+title: "Hello, World"
 subtitle: "Where am I and where are my clothes?"
-date:   2016-05-04 
-categories: [rambling]
-
+date: {}
+categories: 
+  - rambling
+published: true
 ---
 
 Obligatory *May the fourth be with you*
@@ -16,7 +17,7 @@ ___
 
 ## Who am I?
 
-My name is Griffin. Up until college, I had me three people wih my name. Then at school there was four of us in my class alone. Great. There went my identity. Not that it would have left anyway, this path I was beginning will prove to be a complete turn over of who I was and how I operated. 
+My name is Griffin. Up until college, I had met three people wih my name. Then at school there was four of us in my class alone. Great. There went my identity. Not that it would have left anyway, this path I was beginning will prove to be a complete turn over of who I was and how I operated. 
 
 ## Where do I start?
 
@@ -28,7 +29,7 @@ Ignore all of that for a second. Thats all unimportant now.
 
 Now, meaning the day I started actually building this blog, I'm finishing finals in my junior year. I'm a fully fledged computer science major, a captain of the rowing team, and minutely respected among my peers (I say minutely because I give plenty of reasons to hate me and not a lot to like me).
 
-I never thought I would be where I am today. First, being an adult sucks. Like the largest cock you can imagine. Having to deal with finding a house, finishing finals, and a championship regatta all in the same week is something I hope to only deal with in college since I'd rather not throw kids into the mix. 
+I never thought I would be where I am today. First, being an adult sucks. Like, the largest cock you can imagine. Having to deal with finding a house, finishing finals, and a championship regatta all in the same week is something I hope to only deal with in college since I'd rather not throw kids into the mix. 
 
 ## Where am I going?
 
@@ -36,8 +37,4 @@ Lolnope. Not thinking about that. I hate thinking about that. Why am I thinking 
 
 ## What now?
 
-My only goal of the week is to get through it. Life is weird, and all I want to do is survive. Thriving can wait for a bit. 
-
-
-
-
+My only goal of the week is to get through it. Life is weird, and all I want to do is survive. Thriving can wait for a bit.
