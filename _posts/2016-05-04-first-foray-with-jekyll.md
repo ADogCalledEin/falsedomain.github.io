@@ -2,7 +2,7 @@
 layout: post
 title: "Hello, World"
 subtitle: "Where am I and where are my clothes?"
-date: {}
+date: {2016-05-04}
 categories: 
   - rambling
 published: true
