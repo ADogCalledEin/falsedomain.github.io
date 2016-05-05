@@ -16,7 +16,7 @@ ___
 
 ## Who am I?
 
-My name is Griffin. Up until college, I had me three people wih my name. Then at school there was four of us in my class alone. Great. There went my identity. Not that it would have left anyway, this path I was beginning will prove to be a complete turn over of who I was and how I operated. 
+My name is Griffin. Up until college, I had met three people wih my name. Then at school there was four of us in my class alone. Great. There went my identity. Not that it would have left anyway, this path I was beginning will prove to be a complete turn over of who I was and how I operated. 
 
 ## Where do I start?
 
